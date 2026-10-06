@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://honggu31-sketch.github.io/ulsan-seongnam-photo/sitemap.xml
